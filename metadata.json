@@ -1,6 +1,0 @@
-{
-  "name": "Dark Manhwa",
-  "description": "دارك مانهوا - أفضل منصة لقراءة المانجا والمانهوا المترجمة للعربية بسرعة فائقة وبدون إعلانات مزعجة.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
